@@ -9,4 +9,7 @@ A collection of my machine learning models.
 - [F1 Top-3 Finish Probability Predictor](https://github.com/GulrezQayyum/F1-Top-3-Finish-Probability-Predictor)
 
 
+## 🧠 RAG & LLM
+- [PDF RAG Chatbot](https://github.com/GulrezQayyum/pdf-rag-chatbot) 
+
 

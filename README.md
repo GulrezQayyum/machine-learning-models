@@ -10,6 +10,8 @@ A collection of my machine learning models.
 
 
 ## 🧠 RAG & LLM
-- [PDF RAG Chatbot](https://github.com/GulrezQayyum/pdf-rag-chatbot) 
+- [PDF RAG Chatbot](https://github.com/GulrezQayyum/pdf-rag-chatbot)
+- [FREE AI AGENT](https://github.com/GulrezQayyum/free-ai-agent) 
+
 
 

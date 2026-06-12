@@ -1,7 +1,7 @@
 # machine-learning-models
 A collection of my machine learning models.
 
-## 📈 ML
+## ML
 - [Car Price Prediction](https://github.com/GulrezQayyum/car_price_prediction_model)
 - [Regression ML App](https://github.com/GulrezQayyum/regression-ml-app)
 - [Titanic Survival Predictor](https://github.com/GulrezQayyum/titanic-survival-streamlit-ml)
@@ -10,7 +10,7 @@ A collection of my machine learning models.
 - [Network Traffic Classifier Model](https://github.com/GulrezQayyum/network-traffic-classifier-model)
 
 
-## 🧠 RAG & LLM
+## RAG & LLM
 - [PDF RAG Chatbot](https://github.com/GulrezQayyum/pdf-rag-chatbot)
 - [FREE AI AGENT](https://github.com/GulrezQayyum/free-ai-agent) 
 
